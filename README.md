@@ -4,4 +4,4 @@
 </p>
 
 <p align="center"><b>YOLOv5 .txt format</b></p>
-<b>In this dataset the 'Front' part of the vehicle considered as right way and the 'Rear' part of the vehicle considered as worng way.</b>b>
+<b>In this dataset the 'Front' part of the vehicle considered as right way and the 'Rear' part of the vehicle considered as worng way.</b>
