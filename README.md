@@ -7,5 +7,5 @@
 
 <p align="center"><b>YOLOv5 .txt format</b></p>
 <p>Each image has one txt file with a single line for each bounding box. The format of each row is:</p>
-`class_id center_x center_y width height`
-`0 0.223690 0.620533 0.209852 0.201429`
+<p align="center"><b>`class_id center_x center_y width height`</b></p>
+<p align="center"><b>`0 0.223690 0.620533 0.209852 0.201429`</b></p>
