@@ -61,3 +61,5 @@ Here are some popular websites and platforms for annotating objects in images:
     - An open-source image labeling tool developed by the Hamburg Bit-Bots, useful for various computer vision tasks.
 
 These platforms and tools offer a range of features, from basic annotation capabilities to advanced tools for collaboration, quality control, and integration with machine learning pipelines. Depending on your project's requirements, you can choose the one that best fits your needs.
+
+<b>Recomanded tools (MakeSense.ai) :)</b>
