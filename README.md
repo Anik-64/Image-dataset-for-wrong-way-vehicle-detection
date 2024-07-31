@@ -62,4 +62,4 @@ Here are some popular websites and platforms for annotating objects in images:
 
 These platforms and tools offer a range of features, from basic annotation capabilities to advanced tools for collaboration, quality control, and integration with machine learning pipelines. Depending on your project's requirements, you can choose the one that best fits your needs.
 
-<b>Recomanded tools (MakeSense.ai) :)</b>
+<b>Recomanded tools (MakeSense.ai) ':)'</b>
