@@ -12,11 +12,10 @@
    ```sh
    class_id center_x center_y width height
    ```
-Example: 
+In here only two classes: 
+   - class_id (0) label (right)
+   - class_id (1) label (wrong)
 
-   ```sh
-   0.223690 0.620533 0.209852 0.201429
-   ```
 ## Tools
 
 Here are some popular websites and platforms for annotating objects in images:
